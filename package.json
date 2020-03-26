@@ -31,7 +31,7 @@
     "log4js": "=0.6.38",
     "mocha": "=3.0.2",
     "mochawesome": "=1.5.2",
-    "moment": "=2.15.0",
+    "moment": "=2.24.0",
     "mongoomise": "0.0.8",
     "mongoose": "=4.6.0",
     "nodemailer": "=2.6.0",
